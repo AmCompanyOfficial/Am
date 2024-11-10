@@ -30,9 +30,9 @@ Am is a simple, highly functional programming language designed to be powerful a
 To get started with Am, follow these steps:
 
 1. **Download and Install**  
-   Download the latest version of the Am interpreter from the official repository (Link to GitHub repo).  
+   Download the latest version of the Am interpreter from the releases.  
    
-   After downloading, run the installer. The interpreter should be installed in your system.
+   After downloading, run the installer **(Am.exe)**. The interpreter should be installed in your system.
 
 2. **Set Up Your First File**  
    Create a new file with the `.am` extension, e.g., `test.am`.
